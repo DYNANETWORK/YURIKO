@@ -15,15 +15,15 @@ from Yuriko import StartTime, dispatcher
 from telethon.tl.types import ChannelParticipantsAdmins
 
 edit_time = 5
-""" =======================YURIKO====================== """
-file1 = "https://telegra.ph/file/1ad7188c8390b5c36b9a8.jpg"
-file2 = "https://telegra.ph/file/73fc670e1dc78d1857b67.jpg"
-file3 = "https://telegra.ph/file/4b29739e7fd46b2111e55.jpg"
-file4 = "https://telegra.ph/file/956b7a50ec1f0a9802b8b.jpg"
-file5 = "https://telegra.ph/file/2fdff4fc6f3e015eb9a51.jpg"
+""" =======================MAMBA-2.0====================== """
+file1 = "https://telegra.ph/file/c61dc24bd0bc889c3838d.jpg"
+file2 = "https://telegra.ph/file/a42420fbc3fae3d28afca.jpg"
+file3 = "https://telegra.ph/file/04762f53c97a1372d5387.jpg"
+file4 = "https://telegra.ph/file/bef7ffbce97450c0bf046.jpg"
+file5 = "https://telegra.ph/file/6c9bd5c43b4340e892c6e.jpg"
 """ =======================YURIKO====================== """
 
-BUTTON = [[Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DeCodeSupport"), Button.url("ᴜᴘᴅᴀᴛᴇs", "https://t.me/DeeCodeBots")]]
+BUTTON = [[Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MAMBA_X_SUPPORT"), Button.url("POWERED BY", "https://t.me/CYBER_EAGLE_NETWORK")]]
 
 
 START_TIME = datetime.utcnow()
@@ -54,11 +54,11 @@ async def hmm(yes):
     current_time = datetime.utcnow()
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
-    pm_caption = "** ♡ I,m Yuriko **\n\n"
+    pm_caption = "** ♡ I,m MAMBA **\n\n"
     pm_caption += f"**♡ My Uptime :** `{uptime}`\n\n"
     pm_caption += f"**♡ Telethon Version :** `{version.__version__}`\n\n"
-    pm_caption += "**♡ My Team :** [TeamDeeCode](https://t.me/TeamDeeCode)\n"
-    BUTTON = [[Button.url("Support", "https://t.me/DeCodeSupport"), Button.url("Updates", "https://t.me/DeeCodeBots")]]
+    pm_caption += "**♡ My Team :** [C.E.N](https://t.me/CYBER_EAGLE_NETWORK)\n"
+    BUTTON = [[Button.url("Support", "https://t.me/MAMBA_X_SPPORT"), Button.url("Updates", "https://t.me/MAMBA_X_SUPPORT")]]
     on = await aasf.send_file(yes.chat_id, file=file1,caption=pm_caption, buttons=BUTTON)
     
 
