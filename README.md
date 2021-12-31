@@ -1,7 +1,7 @@
-<h1 align="center"><b> ⚡ Yuriko Robot ⚡ </b></h1>
+<h1 align="center"><b> ⚡ MAMBA ROBOT ⚡ </b></h1>
 
 
-## Available on Telegram as [@Yuriko](https://t.me/YurikoRobot)
+## Available on Telegram as [MAMBA](https://t.me/MAMBAX_GBOT)
 
 # ❤️ Support
 <a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
