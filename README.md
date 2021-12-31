@@ -4,7 +4,7 @@
 ## Available on Telegram as [MAMBA](https://t.me/MAMBAX_GBOT)
 
 # ❤️ Support
-<a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/CYBER_EAGLE_NETWORK"><img src="https://img.shields.io/badge/Join-Telegram%20network-red.svg?logo=Telegram"></a>
 <a href="t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
