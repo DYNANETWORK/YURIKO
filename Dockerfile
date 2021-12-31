@@ -64,8 +64,8 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/Yuriko 
-RUN git clone -b master https://github.com/TeamDeeCode/Yuriko /root/Yuriko
+# Copy Python Requirements to /root/MAMBA 
+RUN git clone -b master https://github.com/SUKHPAL443/YURIKO /root/Yuriko
 WORKDIR /root/Yuriko
 
 #Copy config file to /root/Yuriko/Yuriko
